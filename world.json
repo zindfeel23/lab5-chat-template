@@ -1,0 +1,15 @@
+{
+  "players": {
+    "lina": {"nick": "Lina", "guild": "dawn", "role": "master", "messages": []},
+    "marat": {"nick": "Marat", "guild": "dawn", "role": "officer", "messages": []},
+    "lancelot": {"nick": "Sir Lancelot", "guild": "dawn", "role": "member", "messages": []},
+    "ada": {"nick": "Ada", "guild": "dawn", "role": "member", "messages": []},
+    "mira": {"nick": "Mira", "guild": "night", "role": "master", "messages": []},
+    "ada_lower": {"nick": "ada", "guild": "night", "role": "member", "messages": []},
+    "guest": {"nick": "Guest", "guild": null, "role": null, "messages": []}
+  },
+  "guilds": {
+    "dawn": {"members": ["lina", "marat", "lancelot", "ada"]},
+    "night": {"members": ["mira", "ada_lower"]}
+  }
+}
